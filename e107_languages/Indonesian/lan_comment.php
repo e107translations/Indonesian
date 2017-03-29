@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("COMLAN_0", "[diblokir oleh admin]");
+define("COMLAN_1", "Membuka blokir");
+define("COMLAN_2", "Blok");
+define("COMLAN_4", "Info");
+define("COMLAN_5", "Komentar...");
+define("COMLAN_6", "Anda harus login untuk membuat komentar pada situs ini - silakan log in, atau jika Anda tidak terdaftar klik");
+define("COMLAN_7", "Administrator situs utama");
+define("COMLAN_8", "Komentar");
+define("COMLAN_9", "Kirim komentar");
+define("COMLAN_10", "Administrator");
+define("COMLAN_11", "Tidak mampu untuk memasukkan komentar Anda ke dalam database - silakan ketik ulang meninggalkan setiap karakter non-standar.");
+define("COMLAN_12", "Pengguna");
+define("COMLAN_16", "Nama pengguna:");
+define("COMLAN_100", "Berita");
+define("COMLAN_101", "Jajak pendapat");
+define("COMLAN_102", "Membalas:");
+define("COMLAN_103", "Artikel");
+define("COMLAN_104", "Tinjauan");
+define("COMLAN_105", "Konten");
+define("COMLAN_106", "Men-download");
+define("COMLAN_145", "Terdaftar:");
+define("COMLAN_194", "Tamu");
+define("COMLAN_195", "Anggota terdaftar");
+define("COMLAN_310", "Tidak dapat menerima posting sebagai username yang terdaftar - Apakah nama pengguna Anda silahkan login untuk memposting.");
+define("COMLAN_312", "Duplikat post - tidak dapat menerima.");
+define("COMLAN_313", "Lokasi");
+define("COMLAN_314", "moderat komentar");
+define("COMLAN_315", "Pelacakan");
+define("COMLAN_316", "Trackbacks untuk newspost ini.");
+define("COMLAN_317", "Moderat pelacakan");
+define("COMLAN_318", "Mengedit komentar");
+define("COMLAN_319", "diedit");
+define("COMLAN_320", "Memperbarui komentar");
+define("COMLAN_321", "Sini");
+define("COMLAN_322", "untuk pendaftaran");
+define("COMLAN_323", "Kesalahan!");
+define("COMLAN_324", "Subjek");
+define("COMLAN_325", "Re:");
+define("COMLAN_326", "Balasan ini");
+define("COMLAN_328", "Komentar terkunci");
+define("COMLAN_329", "Tidak sah");
+define("COMLAN_330", "IP:");
+define("COMLAN_331", "Menunggu persetujuan");
+define("COMLAN_332", "Tidak bisa menghapus komentar");
+define("COMLAN_333", "Komentar disetujui");
+define("COMLAN_334", "Tidak bisa menyetujui komentar");
+define("COMLAN_335", "Disetujui");
+define("COMLAN_336", "Silakan menulis sesuatu yang pertama.");
+define("COMLAN_337", "Perbaharui berhasil.");
+define("COMLAN_400", "disetujui");
+define("COMLAN_401", "diblokir");
+define("COMLAN_402", "tertunda");
+define("COMLAN_403", "Meninggalkan pesan...");
+define("COMLAN_404", "Menyetujui");
+define("COMLAN_TYPE_1", "Berita");
+define("COMLAN_TYPE_2", "men-download");
+define("COMLAN_TYPE_3", "FAQ");
+define("COMLAN_TYPE_4", "jajak pendapat");
+define("COMLAN_TYPE_5", "docs");
+define("COMLAN_TYPE_6", "bugtrack");
+define("COMLAN_TYPE_7", "ide-ide");
+define("COMLAN_TYPE_8", "USERPROFILE");
+define("COMLAN_TYPE_PAGE", "Konten");
+define("COMLAN_500", "Harap [login] untuk meninggalkan komentar.");
+define("COMLAN_501", "Jika Anda belum terdaftar, Anda dapat [Klik disini untuk mendaftar].");

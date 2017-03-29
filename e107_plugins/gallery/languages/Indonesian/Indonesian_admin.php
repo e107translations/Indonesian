@@ -1,0 +1,75 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("LAN_GALLERY_ADMIN_01", "[x] aktif. Cukup impor dan menetapkan gambar untuk kategori galeri menggunakan [y]");
+define("LAN_GALLERY_ADMIN_03", "Slideshow Menu");
+define("LAN_GALLERY_ADMIN_04", "Gambar Max. Lebar");
+define("LAN_GALLERY_ADMIN_05", "Gambar akan auto-diubah ukurannya jika lebih besar dari lebar yang diberikan di sini");
+define("LAN_GALLERY_ADMIN_06", "Gambar Max. Tinggi");
+define("LAN_GALLERY_ADMIN_07", "Gambar akan auto-diubah ukurannya jika lebih besar dari ketinggian yang diberikan di sini");
+define("LAN_GALLERY_ADMIN_08", "Tampilkan \'download\' link");
+define("LAN_GALLERY_ADMIN_09", "Pilihan download akan ditampilkan di sebelah judul popup");
+define("LAN_GALLERY_ADMIN_10", "Kategori slideshow");
+define("LAN_GALLERY_ADMIN_11", "Gambar dari kategori ini akan digunakan dalam menu geser.");
+define("LAN_GALLERY_ADMIN_12", "Durasi slide");
+define("LAN_GALLERY_ADMIN_13", "Durasi (dalam detik) penuh melompat.");
+define("LAN_GALLERY_ADMIN_14", "Mulai geser otomatis");
+define("LAN_GALLERY_ADMIN_15", "Ketika diaktifkan rotasi gambar dimulai secara otomatis ketika halaman load.");
+define("LAN_GALLERY_ADMIN_16", "Geser frekuensi");
+define("LAN_GALLERY_ADMIN_17", "Ketika mulai otomatis diaktifkan, ini menentukan berapa lama slide tetap menaruh sebelum melompat berikutnya.");
+define("LAN_GALLERY_ADMIN_18", "Slide efek");
+define("LAN_GALLERY_ADMIN_19", "Jenis efek.");
+define("LAN_GALLERY_ADMIN_20", "Gambar per halaman");
+define("LAN_GALLERY_ADMIN_21", "Jumlah gambar yang akan ditampilkan per halaman");
+define("LAN_GALLERY_ADMIN_22", "Urutan gambar oleh");
+define("LAN_GALLERY_ADMIN_23", "Media ID ASC");
+define("LAN_GALLERY_ADMIN_24", "Media ID DESC");
+define("LAN_GALLERY_ADMIN_25", "Nama media ASC");
+define("LAN_GALLERY_ADMIN_26", "Nama media DESC");
+define("LAN_GALLERY_ADMIN_27", "Media Caption ASC");
+define("LAN_GALLERY_ADMIN_28", "Media Caption DESC");
+define("LAN_GALLERY_ADMIN_29", "geser kiri");
+define("LAN_GALLERY_ADMIN_30", "meluncur ke bawah");
+define("LAN_GALLERY_ADMIN_31", "memudar");
+define("LAN_GALLERY_ADMIN_32", "prettyPhoto pengaturan");
+define("LAN_GALLERY_ADMIN_33", "Animasi speed");
+define("LAN_GALLERY_ADMIN_34", "Slideshow: Interval waktu");
+define("LAN_GALLERY_ADMIN_35", "Slideshow: Autoplay");
+define("LAN_GALLERY_ADMIN_36", "Keburaman");
+define("LAN_GALLERY_ADMIN_37", "Nilai antara 0 dan 1.");
+define("LAN_GALLERY_ADMIN_38", "Tampilkan judul");
+define("LAN_GALLERY_ADMIN_39", "Memungkinkan mengubah ukuran");
+define("LAN_GALLERY_ADMIN_40", "Mengubah ukuran foto yang lebih besar dari viewport.");
+define("LAN_GALLERY_ADMIN_41", "Lebar standar");
+define("LAN_GALLERY_ADMIN_42", "Standar tinggi");
+define("LAN_GALLERY_ADMIN_43", "Counter pemisah label");
+define("LAN_GALLERY_ADMIN_44", "Pemisah untuk Galeri counter 1 \'of\' 2");
+define("LAN_GALLERY_ADMIN_46", "Padding horisontal");
+define("LAN_GALLERY_ADMIN_47", "Padding di setiap sisi gambar.");
+define("LAN_GALLERY_ADMIN_48", "Menyembunyikan lampu kilat");
+define("LAN_GALLERY_ADMIN_49", "Menyembunyikan semua objek flash pada halaman, set ke TRUE jika flash muncul prettyPhoto.");
+define("LAN_GALLERY_ADMIN_50", "Wmode");
+define("LAN_GALLERY_ADMIN_51", "Menetapkan atribut flash wmode.");
+define("LAN_GALLERY_ADMIN_52", "Autoplay video");
+define("LAN_GALLERY_ADMIN_53", "Dekat modal");
+define("LAN_GALLERY_ADMIN_54", "Jika diatur ke true, hanya tombol tutup akan menutup jendela.");
+define("LAN_GALLERY_ADMIN_55", "Deep-link");
+define("LAN_GALLERY_ADMIN_56", "Memungkinkan prettyPhoto untuk memperbarui url untuk mengaktifkan deep-link.");
+define("LAN_GALLERY_ADMIN_57", "Tampilan Galeri");
+define("LAN_GALLERY_ADMIN_58", "Jika diatur ke true, Galeri akan tampilan fullscreen gambar pada tikus atas.");
+define("LAN_GALLERY_ADMIN_59", "Cara pintas keyboard");
+define("LAN_GALLERY_ADMIN_60", "Ditetapkan ke false jika Anda membuka bentuk dalam prettyPhoto.");
+define("LAN_GALLERY_ADMIN_61", "IE6 mundur");
+define("LAN_GALLERY_ADMIN_62", "cepat");
+define("LAN_GALLERY_ADMIN_63", "lambat");
+define("LAN_GALLERY_ADMIN_64", "normal");
+define("LAN_GALLERY_ADMIN_65", "Cahaya bulat");
+define("LAN_GALLERY_ADMIN_66", "Gelap bulat");
+define("LAN_GALLERY_ADMIN_67", "Cahaya square");
+define("LAN_GALLERY_ADMIN_68", "Gelap square");
+define("LAN_GALLERY_ADMIN_69", "Facebook");
+define("LAN_GALLERY_ADMIN_70", "Memuat prettyPhoto global");
+define("LAN_GALLERY_ADMIN_71", "prettyPhoto atribut (hook)");

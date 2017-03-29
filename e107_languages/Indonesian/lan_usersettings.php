@@ -1,0 +1,78 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("PAGE_NAME", "Pengaturan pengguna");
+define("MAX_AVWIDTH", "Ukuran maksimum avatar (wxh)");
+define("MAX_AVHEIGHT", "x");
+define("LAN_USET_1", "Avatar Anda terlalu lebar");
+define("LAN_USET_2", "Lebar maksimum yang diperbolehkan");
+define("LAN_USET_3", "Avatar Anda terlalu tinggi");
+define("LAN_USET_4", "Ketinggian maksimum yang diizinkan adalah");
+define("LAN_USET_7", "Miscellaneous");
+define("LAN_USET_8", "Tangan pengguna");
+define("LAN_USET_9", "Beberapa kolom yang harus diisi (ditandai dengan *) hilang dari pengaturan Anda.");
+define("LAN_USET_10", "Perbarui pengaturan Anda sekarang, untuk melanjutkan.");
+define("LAN_USET_11", "Nama pengguna yang tidak dapat diterima sebagai berlaku, pilih nama pengguna yang berbeda");
+define("LAN_USET_12", "Bahwa nama tampilan terlalu pendek. Silakan pilih yang lain");
+define("LAN_USET_13", "Karakter tidak valid Username. Silakan pilih yang lain");
+define("LAN_USET_14", "Nama login terlalu lama. Silakan pilih yang lain");
+define("LAN_USET_15", "Nama tampilan terlalu lama. Silakan pilih yang lain");
+define("LAN_USET_16", "Centang kotak untuk menghapus foto yang ada tanpa meng-upload lain");
+define("LAN_USET_17", "Nama tampilan yang sudah digunakan. Silakan pilih yang lain");
+define("LAN_USET_18", "Data pengguna berubah oleh admin:--ID--, nama login:--LOGNAME--");
+define("LAN_USET_20", "Anda juga harus mengubah password pengguna jika Anda mengubah mereka login nama atau alamat email");
+define("LAN_USET_21", "Harap validasi perubahan dengan memasukkan kembali sandi:");
+define("LAN_USET_23", "Biarkan kosong untuk menjaga sandi yang ada");
+define("LAN_USET_24", "Password baru:");
+define("LAN_USET_25", "Ketik ulang password baru:");
+define("LAN_USET_26", "Upload avatar Anda");
+define("LAN_USET_27", "Meng-upload foto Anda");
+define("LAN_USET_28", "Ini akan ditampilkan di Halaman profil Anda");
+define("LAN_USET_30", "Apa ini?");
+define("LAN_USET_31", "Informasi pendaftaran");
+define("LAN_USET_32", "Harap dicatat: gambar upload ke server ini yang dianggap tidak pantas oleh administrator akan segera dihapus.");
+define("LAN_USET_33", "Pilih avatar disimpan situs");
+define("LAN_USET_34", "Gunakan remote avatar");
+define("LAN_USET_35", "Silahkan ketik alamat lengkap gambar");
+define("LAN_USET_36", "Klik tombol untuk melihat avatar yang disimpan di situs ini");
+define("LAN_USET_37", "Simpan pengaturan");
+define("LAN_USET_38", "Pilih avatar");
+define("LAN_USET_39", "Memperbarui pengaturan pengguna");
+define("LAN_USET_40", "Dua katasandi tidak cocok");
+define("LAN_USET_41", "Pengaturan diperbarui dan disimpan ke dalam database.");
+define("LAN_USET_42", "Mismatch tombol Validasi");
+define("LAN_USET_43", "Kesalahan memperbarui data pengguna");
+define("LAN_7", "Nama tampilan:");
+define("LAN_8", "nama yang ditampilkan di situs");
+define("LAN_9", "Nama pengguna:");
+define("LAN_10", "nama yang Anda gunakan untuk login ke situs");
+define("LAN_112", "Alamat email:");
+define("LAN_113", "Menyembunyikan alamat email?:");
+define("LAN_114", "Ini akan mencegah alamat email dari yang ditampilkan pada situs");
+define("LAN_120", "Tanda tangan:");
+define("LAN_122", "Zona waktu:");
+define("LAN_152", "Password baru:");
+define("LAN_153", "Ketik ulang password baru:");
+define("LAN_154", "Simpan pengaturan");
+define("LAN_308", "Nama asli:");
+define("LAN_401", "Biarkan kosong untuk menjaga sandi yang ada");
+define("LAN_404", "Harap dicatat: gambar upload ke server ini yang dianggap tidak pantas oleh administrator akan segera dihapus.");
+define("LAN_414", "Meng-upload foto Anda");
+define("LAN_415", "Upload avatar Anda");
+define("LAN_418", "Informasi pendaftaran");
+define("LAN_420", "Avatar");
+define("LAN_421", "Pilih avatar disimpan situs");
+define("LAN_422", "Gunakan remote avatar");
+define("LAN_423", "Silahkan ketik alamat lengkap gambar");
+define("LAN_424", "Klik tombol untuk melihat avatar yang disimpan di situs ini");
+define("LAN_425", "Foto");
+define("LAN_426", "Ini akan ditampilkan di Halaman profil Anda");
+define("LAN_433", "URL untuk XUP file");
+define("LAN_434", "Apa ini?");
+define("LAN_435", "File XML User Protocol");
+define("LAN_CUSTOMTITLE", "Judul kustom");
+define("LAN_USET_5", "Berlangganan");
+define("LAN_USET_6", "Berlangganan milis kami-daftar (s) dan/atau bagian dari situs ini.");
